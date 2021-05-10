@@ -1,1 +1,3 @@
-/usr/bin/c++ -g CMakeFiles/ErrorCatch.dir/main.cpp.o -o ErrorCatch 
+"H:\Programs\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ErrorCatch.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\ErrorCatch.dir/objects.a @CMakeFiles\ErrorCatch.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g  -static -Wl,--whole-archive CMakeFiles\ErrorCatch.dir/objects.a -Wl,--no-whole-archive  -o ErrorCatch.exe -Wl,--out-implib,libErrorCatch.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ErrorCatch.dir\linklibs.rsp

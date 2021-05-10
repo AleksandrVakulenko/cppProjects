@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/_OneDrive/OneDrive/ClionPrj/_OpenGL/001_Hello_world/main.cpp
+iostream
+-
+windows.h
+-
+gl/gl.h
+-
+

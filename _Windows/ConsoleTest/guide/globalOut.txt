@@ -1,0 +1,15 @@
+----prog with nyan.txt----: 
+Enter data N1: 
+Enter data N2: 
+string
+data
+----prog with meow.txt----: 
+Enter data N1: 
+Enter data N2: 
+meow
+meow
+----prog with purr.txt----: 
+Enter data N1: 
+Enter data N2: 
+111111111111
+222

@@ -1,0 +1,4 @@
+Enter data N1: 
+Enter data N2: 
+nyan1
+text222

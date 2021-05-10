@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/_OneDrive/OneDrive/ClionPrj/_WindowsAPI/visualTest/main.cpp
+iostream
+-
+windows.h
+F:/_OneDrive/OneDrive/ClionPrj/_WindowsAPI/visualTest/windows.h
+gl/gl.h
+F:/_OneDrive/OneDrive/ClionPrj/_WindowsAPI/visualTest/gl/gl.h
+

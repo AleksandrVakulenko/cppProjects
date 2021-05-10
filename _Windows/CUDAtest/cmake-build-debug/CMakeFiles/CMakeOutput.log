@@ -1,0 +1,296 @@
+The system is: Windows - 10.0.18363 - AMD64
+Failed to detect CUDA nvcc include information:
+  no 'INCLUDES=' string found in nvcc output:
+    
+
+
+Failed to detect CUDA nvcc include information:
+  no 'INCLUDES=' string found in nvcc output:
+    
+
+
+Failed to detect CUDA nvcc include information:
+  no 'INCLUDES=' string found in nvcc output:
+    
+
+
+Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" succeeded.
+Compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/nvcc.exe 
+Build flags: 
+Id flags:  -v;--keep;--keep-dir;tmp;-ccbin=F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64/cl.exe
+
+The output was:
+0
+
+F:\_OneDrive\OneDrive\ClionPrj\CUDAtest\cmake-build-debug\CMakeFiles\3.17.5\CompilerIdCUDA>call "F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64/../../../../../../../VC/Auxiliary/Build/vcvars64.bat" 
+**********************************************************************
+** Visual Studio 2019 Developer Command Prompt v16.9.2
+** Copyright (c) 2021 Microsoft Corporation
+**********************************************************************
+[vcvarsall.bat] Environment initialized for: 'x64'
+#$ F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64/../../../../../../../VC/Auxiliary/Build/vcvars64.bat
+#$ ALLUSERSPROFILE=C:\ProgramData
+#$ APPDATA=C:\Users\705\AppData\Roaming
+#$ AVR32_HOME=F:\Atmel\WinAVR-20100110
+#$ BenchVueAnalyticsSetting=true
+#$ CARBON_MEM_DISABLE=1
+#$ CLION_IDE=TRUE
+#$ CommandExpertBinPath=C:\Program Files (x86)\Keysight\Command Expert
+#$ CommandPromptType=Native
+#$ CommonProgramFiles=C:\Program Files\Common Files
+#$ CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+#$ CommonProgramW6432=C:\Program Files\Common Files
+#$ COMPUTERNAME=DESKTOP-TUGAJ14
+#$ ComSpec=C:\WINDOWS\system32\cmd.exe
+#$ CUDA_PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2
+#$ CUDA_PATH_V11_2=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2
+#$ DevEnvDir=F:\Microsoft Visual Studio\2019\Community\Common7\IDE\
+#$ DriverData=C:\Windows\System32\Drivers\DriverData
+#$ ExtensionSdkDir=C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs
+#$ Framework40Version=v4.0
+#$ FrameworkDir=C:\Windows\Microsoft.NET\Framework64\
+#$ FrameworkDir32=C:\Windows\Microsoft.NET\Framework\
+#$ FrameworkDir64=C:\Windows\Microsoft.NET\Framework64\
+#$ FrameworkVersion=v4.0.30319
+#$ FrameworkVersion32=v4.0.30319
+#$ FrameworkVersion64=v4.0.30319
+#$ FR_CUSTOMDATA_PATH=F:\Steam\steamapps\common\FaceRig\Mod\VP\PC_CustomData\
+#$ HOMEDRIVE=C:
+#$ HOMEPATH=\Users\705
+#$ IDEA_INITIAL_DIRECTORY=F:\CLion 2020.3.2\bin
+#$ INCLUDE=F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt;F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt
+#$ IVIROOTDIR32=C:\Program Files (x86)\IVI Foundation\IVI\
+#$ IVIROOTDIR64=C:\Program Files\IVI Foundation\IVI\
+#$ JETBRAINS_IDE=TRUE
+#$ KMP_DUPLICATE_LIB_OK=TRUE
+#$ LIB=F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\lib\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x64;F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\lib\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x86;C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86
+#$ LIBPATH=F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\lib\x64;F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.19041.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.19041.0;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\lib\x86;F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.19041.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.19041.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319
+#$ LOCALAPPDATA=C:\Users\705\AppData\Local
+#$ LOGONSERVER=\\DESKTOP-TUGAJ14
+#$ MKL_SERIAL=YES
+#$ MOZ_PLUGIN_PATH=C:\PROGRAM FILES (X86)\FOXIT SOFTWARE\FOXIT READER\plugins\
+#$ NIEXTCCOMPILERSUPP=C:\Program Files (x86)\National Instruments\Shared\ExternalCompilerSupport\C\
+#$ NIIVIPATH=C:\Program Files (x86)\IVI Foundation\IVI\
+#$ NUMBER_OF_PROCESSORS=8
+#$ NVCUDASAMPLES11_2_ROOT=C:\ProgramData\NVIDIA Corporation\CUDA Samples\v11.2
+#$ NVCUDASAMPLES_ROOT=C:\ProgramData\NVIDIA Corporation\CUDA Samples\v11.2
+#$ NVTOOLSEXT_PATH=C:\Program Files\NVIDIA Corporation\NvToolsExt\
+#$ OneDrive=F:\_OneDrive\OneDrive
+#$ OneDriveConsumer=F:\_OneDrive\OneDrive
+#$ OS=Windows_NT
+#$ Path=F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\VCPackages;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;F:\Microsoft Visual Studio\2019\Community\MSBuild\Current\bin\Roslyn;F:\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools\x64;F:\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools;F:\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\\x64;F:\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\devinit;C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64;C:\Program Files (x86)\Windows Kits\10\bin\x64;F:\Microsoft Visual Studio\2019\Community\\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\;F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\VCPackages;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;F:\Microsoft Visual Studio\2019\Community\MSBuild\Current\bin\Roslyn;F:\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools;F:\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\devinit;C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86;C:\Program Files (x86)\Windows Kits\10\bin\x86;F:\Microsoft Visual Studio\2019\Community\\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp;F:\Atmel\WinAVR-20100110\bin;F:\CodeLite\TDM-GCC-32\bin;C:\Program Files\Keysight\IO Libraries Suite\bin;C:\Program Files\IVI Foundation\VISA\Win64\ktvisa;C:\Program Files\IVI Foundation\VISA\Win64\bin;C:\Program Files (x86)\Keysight\IO Libraries Suite\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\ktvisa;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\bin;C:\Program Files (x86)\IVI Foundation\VISA\winnt\agvisa;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\MATLAB\R2019b\runtime\win64;F:\MATLAB\R2019b\bin;F:\MATLAB\R2018a\runtime\win64;F:\MATLAB\R2018a\bin;F:\MATLAB\MATLAB Production Server\R2015a\runtime\win64;F:\MATLAB\MATLAB Production Server\R2015a\bin;F:\MATLAB\MATLAB Production Server\R2015a\polyspace\bin;F:\MATLAB\R2019b\polyspace\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;F:\PuTTY\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.3.1\;F:\Ruby27-x64\bin;C:\Users\705\AppData\Local\Microsoft\WindowsApps;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp;F:\Atmel\WinAVR-20100110\bin;F:\CodeLite\TDM-GCC-32\bin;C:\Program Files\Keysight\IO Libraries Suite\bin;C:\Program Files\IVI Foundation\VISA\Win64\ktvisa;C:\Program Files\IVI Foundation\VISA\Win64\bin;C:\Program Files (x86)\Keysight\IO Libraries Suite\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\ktvisa;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\bin;C:\Program Files (x86)\IVI Foundation\VISA\winnt\agvisa;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\MATLAB\R2019b\runtime\win64;F:\MATLAB\R2019b\bin;F:\MATLAB\R2018a\runtime\win64;F:\MATLAB\R2018a\bin;F:\MATLAB\MATLAB Production Server\R2015a\runtime\win64;F:\MATLAB\MATLAB Production Server\R2015a\bin;F:\MATLAB\MATLAB Production Server\R2015a\polyspace\bin;F:\MATLAB\R2019b\polyspace\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;F:\PuTTY\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.3.1\;F:\Ruby27-x64\bin;C:\Users\705\AppData\Local\Microsoft\WindowsApps;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja
+#$ PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW
+#$ Platform=x64
+#$ PROCESSOR_ARCHITECTURE=AMD64
+#$ PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+#$ PROCESSOR_LEVEL=6
+#$ PROCESSOR_REVISION=5e03
+#$ ProgramData=C:\ProgramData
+#$ ProgramFiles=C:\Program Files
+#$ ProgramFiles(x86)=C:\Program Files (x86)
+#$ ProgramW6432=C:\Program Files
+#$ PROMPT=$P$G
+#$ PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+#$ PUBLIC=C:\Users\Public
+#$ RUBYOPT=-Eutf-8
+#$ SESSIONNAME=Console
+#$ SystemDrive=C:
+#$ SystemRoot=C:\WINDOWS
+#$ UCRTVersion=10.0.19041.0
+#$ UniversalCRTSdkDir=C:\Program Files (x86)\Windows Kits\10\
+#$ USERDOMAIN=DESKTOP-TUGAJ14
+#$ USERDOMAIN_ROAMINGPROFILE=DESKTOP-TUGAJ14
+#$ USERNAME=705
+#$ USERPROFILE=C:\Users\705
+#$ VBOX_MSI_INSTALL_PATH=F:\VirtualBox\
+#$ VCIDEInstallDir=F:\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\
+#$ VCINSTALLDIR=F:\Microsoft Visual Studio\2019\Community\VC\
+#$ VCToolsInstallDir=F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\
+#$ VCToolsRedistDir=F:\Microsoft Visual Studio\2019\Community\VC\Redist\MSVC\14.28.29910\
+#$ VCToolsVersion=14.28.29910
+#$ VisualStudioVersion=16.0
+#$ VS160COMNTOOLS=F:\Microsoft Visual Studio\2019\Community\Common7\Tools\
+#$ VSCMD_ARG_app_plat=Desktop
+#$ VSCMD_ARG_HOST_ARCH=x64
+#$ VSCMD_ARG_TGT_ARCH=x64
+#$ VSCMD_VER=16.9.2
+#$ vsconsoleoutput=1
+#$ VSINSTALLDIR=F:\Microsoft Visual Studio\2019\Community\
+#$ VXIPNPPATH=C:\Program Files (x86)\IVI Foundation\VISA\
+#$ VXIPNPPATH64=C:\Program Files\IVI Foundation\VISA\
+#$ windir=C:\WINDOWS
+#$ WindowsLibPath=C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.19041.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.19041.0
+#$ WindowsSdkBinPath=C:\Program Files (x86)\Windows Kits\10\bin\
+#$ WindowsSdkDir=C:\Program Files (x86)\Windows Kits\10\
+#$ WindowsSDKLibVersion=10.0.19041.0\
+#$ WindowsSdkVerBinPath=C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\
+#$ WindowsSDKVersion=10.0.19041.0\
+#$ WindowsSDK_ExecutablePath_x64=C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\
+#$ WindowsSDK_ExecutablePath_x86=C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\
+#$ __devinit_path=F:\Microsoft Visual Studio\2019\Community\Common7\Tools\devinit\devinit.exe
+#$ __DOTNET_ADD_32BIT=1
+#$ __DOTNET_ADD_64BIT=1
+#$ __DOTNET_PREFERRED_BITNESS=64
+#$ __VSCMD_PREINIT_PATH=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp;F:\Atmel\WinAVR-20100110\bin;F:\CodeLite\TDM-GCC-32\bin;C:\Program Files\Keysight\IO Libraries Suite\bin;C:\Program Files\IVI Foundation\VISA\Win64\ktvisa;C:\Program Files\IVI Foundation\VISA\Win64\bin;C:\Program Files (x86)\Keysight\IO Libraries Suite\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\ktvisa;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\bin;C:\Program Files (x86)\IVI Foundation\VISA\winnt\agvisa;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\MATLAB\R2019b\runtime\win64;F:\MATLAB\R2019b\bin;F:\MATLAB\R2018a\runtime\win64;F:\MATLAB\R2018a\bin;F:\MATLAB\MATLAB Production Server\R2015a\runtime\win64;F:\MATLAB\MATLAB Production Server\R2015a\bin;F:\MATLAB\MATLAB Production Server\R2015a\polyspace\bin;F:\MATLAB\R2019b\polyspace\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;F:\PuTTY\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.3.1\;F:\Ruby27-x64\bin;C:\Users\705\AppData\Local\Microsoft\WindowsApps
+#$ __VSCMD_PREINIT_VCToolsVersion=14.28.29910
+#$ __VSCMD_PREINIT_VS160COMNTOOLS=F:\Microsoft Visual Studio\2019\Community\Common7\Tools\
+#$ PATH=F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64;F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\VCPackages;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;F:\Microsoft Visual Studio\2019\Community\MSBuild\Current\bin\Roslyn;F:\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools\x64;F:\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools;F:\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\\x64;F:\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\devinit;C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64;C:\Program Files (x86)\Windows Kits\10\bin\x64;F:\Microsoft Visual Studio\2019\Community\\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\;F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\VCPackages;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;F:\Microsoft Visual Studio\2019\Community\MSBuild\Current\bin\Roslyn;F:\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools;F:\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\devinit;C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86;C:\Program Files (x86)\Windows Kits\10\bin\x86;F:\Microsoft Visual Studio\2019\Community\\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp;F:\Atmel\WinAVR-20100110\bin;F:\CodeLite\TDM-GCC-32\bin;C:\Program Files\Keysight\IO Libraries Suite\bin;C:\Program Files\IVI Foundation\VISA\Win64\ktvisa;C:\Program Files\IVI Foundation\VISA\Win64\bin;C:\Program Files (x86)\Keysight\IO Libraries Suite\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\ktvisa;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\bin;C:\Program Files (x86)\IVI Foundation\VISA\winnt\agvisa;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\MATLAB\R2019b\runtime\win64;F:\MATLAB\R2019b\bin;F:\MATLAB\R2018a\runtime\win64;F:\MATLAB\R2018a\bin;F:\MATLAB\MATLAB Production Server\R2015a\runtime\win64;F:\MATLAB\MATLAB Production Server\R2015a\bin;F:\MATLAB\MATLAB Production Server\R2015a\polyspace\bin;F:\MATLAB\R2019b\polyspace\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;F:\PuTTY\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.3.1\;F:\Ruby27-x64\bin;C:\Users\705\AppData\Local\Microsoft\WindowsApps;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp;F:\Atmel\WinAVR-20100110\bin;F:\CodeLite\TDM-GCC-32\bin;C:\Program Files\Keysight\IO Libraries Suite\bin;C:\Program Files\IVI Foundation\VISA\Win64\ktvisa;C:\Program Files\IVI Foundation\VISA\Win64\bin;C:\Program Files (x86)\Keysight\IO Libraries Suite\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\ktvisa;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\bin;C:\Program Files (x86)\IVI Foundation\VISA\winnt\agvisa;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\MATLAB\R2019b\runtime\win64;F:\MATLAB\R2019b\bin;F:\MATLAB\R2018a\runtime\win64;F:\MATLAB\R2018a\bin;F:\MATLAB\MATLAB Production Server\R2015a\runtime\win64;F:\MATLAB\MATLAB Production Server\R2015a\bin;F:\MATLAB\MATLAB Production Server\R2015a\polyspace\bin;F:\MATLAB\R2019b\polyspace\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;F:\PuTTY\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.3.1\;F:\Ruby27-x64\bin;C:\Users\705\AppData\Local\Microsoft\WindowsApps;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja
+#$ _NVVM_BRANCH_=nvvm
+#$ _SPACE_= 
+#$ _CUDART_=cudart
+#$ _HERE_=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin
+#$ _THERE_=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin
+#$ _TARGET_SIZE_=
+#$ _TARGET_DIR_=
+#$ _TARGET_SIZE_=64
+#$ _WIN_PLATFORM_=x64
+#$ TOP=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/..
+#$ NVVMIR_LIBRARY_DIR=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../nvvm/libdevice
+#$ PATH=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../nvvm/bin;C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin;C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../lib;F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64;F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\VCPackages;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;F:\Microsoft Visual Studio\2019\Community\MSBuild\Current\bin\Roslyn;F:\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools\x64;F:\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools;F:\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\\x64;F:\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\devinit;C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64;C:\Program Files (x86)\Windows Kits\10\bin\x64;F:\Microsoft Visual Studio\2019\Community\\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\;F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\VCPackages;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;F:\Microsoft Visual Studio\2019\Community\MSBuild\Current\bin\Roslyn;F:\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools;F:\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\devinit;C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86;C:\Program Files (x86)\Windows Kits\10\bin\x86;F:\Microsoft Visual Studio\2019\Community\\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp;F:\Atmel\WinAVR-20100110\bin;F:\CodeLite\TDM-GCC-32\bin;C:\Program Files\Keysight\IO Libraries Suite\bin;C:\Program Files\IVI Foundation\VISA\Win64\ktvisa;C:\Program Files\IVI Foundation\VISA\Win64\bin;C:\Program Files (x86)\Keysight\IO Libraries Suite\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\ktvisa;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\bin;C:\Program Files (x86)\IVI Foundation\VISA\winnt\agvisa;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\MATLAB\R2019b\runtime\win64;F:\MATLAB\R2019b\bin;F:\MATLAB\R2018a\runtime\win64;F:\MATLAB\R2018a\bin;F:\MATLAB\MATLAB Production Server\R2015a\runtime\win64;F:\MATLAB\MATLAB Production Server\R2015a\bin;F:\MATLAB\MATLAB Production Server\R2015a\polyspace\bin;F:\MATLAB\R2019b\polyspace\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;F:\PuTTY\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.3.1\;F:\Ruby27-x64\bin;C:\Users\705\AppData\Local\Microsoft\WindowsApps;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp;F:\Atmel\WinAVR-20100110\bin;F:\CodeLite\TDM-GCC-32\bin;C:\Program Files\Keysight\IO Libraries Suite\bin;C:\Program Files\IVI Foundation\VISA\Win64\ktvisa;C:\Program Files\IVI Foundation\VISA\Win64\bin;C:\Program Files (x86)\Keysight\IO Libraries Suite\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\ktvisa;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\bin;C:\Program Files (x86)\IVI Foundation\VISA\winnt\agvisa;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\MATLAB\R2019b\runtime\win64;F:\MATLAB\R2019b\bin;F:\MATLAB\R2018a\runtime\win64;F:\MATLAB\R2018a\bin;F:\MATLAB\MATLAB Production Server\R2015a\runtime\win64;F:\MATLAB\MATLAB Production Server\R2015a\bin;F:\MATLAB\MATLAB Production Server\R2015a\polyspace\bin;F:\MATLAB\R2019b\polyspace\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;F:\PuTTY\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.3.1\;F:\Ruby27-x64\bin;C:\Users\705\AppData\Local\Microsoft\WindowsApps;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja
+#$ INCLUDES="-IC:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../include"  
+#$ LIBRARIES=  "/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../lib/x64"
+#$ CUDAFE_FLAGS=
+#$ PTXAS_FLAGS=
+#$ erase tmp/a_dlink.reg.c
+CMakeCUDACompilerId.cu
+#$ cl.exe @"tmp/CMakeCUDACompilerId.cpp1.ii.res" > "tmp/CMakeCUDACompilerId.cpp1.ii" 
+CMakeCUDACompilerId.cu
+#$ cicc --microsoft_version=1928 --msvc_target_version=1928 --compiler_bindir "F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --orig_src_file_name "CMakeCUDACompilerId.cu" --allow_managed  -arch compute_52 -m64 --no-version-ident -ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 --include_file_name "CMakeCUDACompilerId.fatbin.c" -tused --gen_module_id_file --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.c" --stub_file_name "tmp/CMakeCUDACompilerId.cudafe1.stub.c" --gen_device_file_name "tmp/CMakeCUDACompilerId.cudafe1.gpu"  "tmp/CMakeCUDACompilerId.cpp1.ii" -o "tmp/CMakeCUDACompilerId.ptx"
+#$ ptxas -arch=sm_52 -m64 "tmp/CMakeCUDACompilerId.ptx"  -o "tmp/CMakeCUDACompilerId.sm_52.cubin" 
+#$ fatbinary --create="tmp/CMakeCUDACompilerId.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " "--image3=kind=elf,sm=52,file=tmp/CMakeCUDACompilerId.sm_52.cubin" "--image3=kind=ptx,sm=52,file=tmp/CMakeCUDACompilerId.ptx" --embedded-fatbin="tmp/CMakeCUDACompilerId.fatbin.c" 
+#$ cl.exe @"tmp/CMakeCUDACompilerId.cpp4.ii.res" > "tmp/CMakeCUDACompilerId.cpp4.ii" 
+CMakeCUDACompilerId.cu
+#$ cudafe++ --microsoft_version=1928 --msvc_target_version=1928 --compiler_bindir "F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --orig_src_file_name "CMakeCUDACompilerId.cu" --allow_managed --m64 --parse_templates --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.cpp" --stub_file_name "CMakeCUDACompilerId.cudafe1.stub.c" --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" "tmp/CMakeCUDACompilerId.cpp4.ii" 
+#$ cl.exe @"tmp/CMakeCUDACompilerId.obj.res" -Fo"tmp/CMakeCUDACompilerId.obj" 
+CMakeCUDACompilerId.cudafe1.cpp
+#$ nvlink -optf "tmp/a_dlink.sm_52.cubin.optf"
+#$ fatbinary --create="tmp/a_dlink.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " -link "--image3=kind=elf,sm=52,file=tmp/a_dlink.sm_52.cubin" --embedded-fatbin="tmp/a_dlink.fatbin.c" 
+#$ cl.exe @"tmp/a_dlink.obj.res" -Fo"tmp/a_dlink.obj" 
+link.stub
+#$ cl.exe @"tmp/a.exe.res" -Fe"a.exe" 
+   Создается библиотека a.lib и объект a.exp
+
+
+Compilation of the CUDA compiler identification source "CMakeCUDACompilerId.cu" produced "a.exe"
+
+Compilation of the CUDA compiler identification source "CMakeCUDACompilerId.cu" produced "a.exp"
+
+Compilation of the CUDA compiler identification source "CMakeCUDACompilerId.cu" produced "a.lib"
+
+The CUDA compiler identification is NVIDIA, found in "F:/_OneDrive/OneDrive/ClionPrj/CUDAtest/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdCUDA/a.exe"
+
+Parsed CUDA nvcc implicit link information from above output:
+  found 'PATH=' string: [F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64;F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\VCPackages;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;F:\Microsoft Visual Studio\2019\Community\MSBuild\Current\bin\Roslyn;F:\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools\x64;F:\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools;F:\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\\x64;F:\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\devinit;C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64;C:\Program Files (x86)\Windows Kits\10\bin\x64;F:\Microsoft Visual Studio\2019\Community\\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\;F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\VCPackages;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;F:\Microsoft Visual Studio\2019\Community\MSBuild\Current\bin\Roslyn;F:\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools;F:\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\devinit;C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86;C:\Program Files (x86)\Windows Kits\10\bin\x86;F:\Microsoft Visual Studio\2019\Community\\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp;F:\Atmel\WinAVR-20100110\bin;F:\CodeLite\TDM-GCC-32\bin;C:\Program Files\Keysight\IO Libraries Suite\bin;C:\Program Files\IVI Foundation\VISA\Win64\ktvisa;C:\Program Files\IVI Foundation\VISA\Win64\bin;C:\Program Files (x86)\Keysight\IO Libraries Suite\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\ktvisa;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\bin;C:\Program Files (x86)\IVI Foundation\VISA\winnt\agvisa;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\MATLAB\R2019b\runtime\win64;F:\MATLAB\R2019b\bin;F:\MATLAB\R2018a\runtime\win64;F:\MATLAB\R2018a\bin;F:\MATLAB\MATLAB Production Server\R2015a\runtime\win64;F:\MATLAB\MATLAB Production Server\R2015a\bin;F:\MATLAB\MATLAB Production Server\R2015a\polyspace\bin;F:\MATLAB\R2019b\polyspace\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;F:\PuTTY\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.3.1\;F:\Ruby27-x64\bin;C:\Users\705\AppData\Local\Microsoft\WindowsApps;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp;F:\Atmel\WinAVR-20100110\bin;F:\CodeLite\TDM-GCC-32\bin;C:\Program Files\Keysight\IO Libraries Suite\bin;C:\Program Files\IVI Foundation\VISA\Win64\ktvisa;C:\Program Files\IVI Foundation\VISA\Win64\bin;C:\Program Files (x86)\Keysight\IO Libraries Suite\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\ktvisa;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\bin;C:\Program Files (x86)\IVI Foundation\VISA\winnt\agvisa;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\MATLAB\R2019b\runtime\win64;F:\MATLAB\R2019b\bin;F:\MATLAB\R2018a\runtime\win64;F:\MATLAB\R2018a\bin;F:\MATLAB\MATLAB Production Server\R2015a\runtime\win64;F:\MATLAB\MATLAB Production Server\R2015a\bin;F:\MATLAB\MATLAB Production Server\R2015a\polyspace\bin;F:\MATLAB\R2019b\polyspace\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;F:\PuTTY\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.3.1\;F:\Ruby27-x64\bin;C:\Users\705\AppData\Local\Microsoft\WindowsApps;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja]
+  found 'LIBRARIES=' string: ["/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../lib/x64"]
+  considering line: []
+  considering line: [F:\_OneDrive\OneDrive\ClionPrj\CUDAtest\cmake-build-debug\CMakeFiles\3.17.5\CompilerIdCUDA>call "F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64/../../../../../../../VC/Auxiliary/Build/vcvars64.bat" ]
+  considering line: [**********************************************************************]
+  considering line: [** Visual Studio 2019 Developer Command Prompt v16.9.2]
+  considering line: [** Copyright (c) 2021 Microsoft Corporation]
+  considering line: [**********************************************************************]
+  considering line: [[vcvarsall.bat] Environment initialized for: 'x64']
+  considering line: [F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64/../../../../../../../VC/Auxiliary/Build/vcvars64.bat]
+  considering line: [erase tmp/a_dlink.reg.c]
+  considering line: [CMakeCUDACompilerId.cu]
+  considering line: [cl.exe @"tmp/CMakeCUDACompilerId.cpp1.ii.res" > "tmp/CMakeCUDACompilerId.cpp1.ii" ]
+  considering line: [CMakeCUDACompilerId.cu]
+  considering line: [cicc --microsoft_version=1928 --msvc_target_version=1928 --compiler_bindir "F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --orig_src_file_name "CMakeCUDACompilerId.cu" --allow_managed  -arch compute_52 -m64 --no-version-ident -ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 --include_file_name "CMakeCUDACompilerId.fatbin.c" -tused --gen_module_id_file --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.c" --stub_file_name "tmp/CMakeCUDACompilerId.cudafe1.stub.c" --gen_device_file_name "tmp/CMakeCUDACompilerId.cudafe1.gpu"  "tmp/CMakeCUDACompilerId.cpp1.ii" -o "tmp/CMakeCUDACompilerId.ptx"]
+  considering line: [ptxas -arch=sm_52 -m64 "tmp/CMakeCUDACompilerId.ptx"  -o "tmp/CMakeCUDACompilerId.sm_52.cubin" ]
+  considering line: [fatbinary --create="tmp/CMakeCUDACompilerId.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " "--image3=kind=elf,sm=52,file=tmp/CMakeCUDACompilerId.sm_52.cubin" "--image3=kind=ptx,sm=52,file=tmp/CMakeCUDACompilerId.ptx" --embedded-fatbin="tmp/CMakeCUDACompilerId.fatbin.c" ]
+  considering line: [cl.exe @"tmp/CMakeCUDACompilerId.cpp4.ii.res" > "tmp/CMakeCUDACompilerId.cpp4.ii" ]
+  considering line: [CMakeCUDACompilerId.cu]
+  considering line: [cudafe++ --microsoft_version=1928 --msvc_target_version=1928 --compiler_bindir "F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --orig_src_file_name "CMakeCUDACompilerId.cu" --allow_managed --m64 --parse_templates --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.cpp" --stub_file_name "CMakeCUDACompilerId.cudafe1.stub.c" --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" "tmp/CMakeCUDACompilerId.cpp4.ii" ]
+  considering line: [cl.exe @"tmp/CMakeCUDACompilerId.obj.res" -Fo"tmp/CMakeCUDACompilerId.obj" ]
+  considering line: [CMakeCUDACompilerId.cudafe1.cpp]
+  considering line: [nvlink -optf "tmp/a_dlink.sm_52.cubin.optf"]
+    ignoring nvlink line
+  considering line: [fatbinary --create="tmp/a_dlink.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " -link "--image3=kind=elf,sm=52,file=tmp/a_dlink.sm_52.cubin" --embedded-fatbin="tmp/a_dlink.fatbin.c" ]
+  considering line: [cl.exe @"tmp/a_dlink.obj.res" -Fo"tmp/a_dlink.obj" ]
+  considering line: [link.stub]
+  considering line: [cl.exe @"tmp/a.exe.res" -Fe"a.exe" ]
+    extracted link line: [cl.exe -nologo "tmp/a_dlink.obj" "tmp/CMakeCUDACompilerId.obj" -link -INCREMENTAL:NO   "/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../lib/x64"  cudadevrt.lib  cudart_static.lib -Fe"a.exe" ]
+  considering line: [   Создается библиотека a.lib и объект a.exp]
+  considering line: []
+
+  link line regex: [^( *|.*[/\])(link\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  link line: [cuda-fake-ld cl.exe -nologo "tmp/a_dlink.obj" "tmp/CMakeCUDACompilerId.obj" -link -INCREMENTAL:NO   "/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../lib/x64"  cudadevrt.lib  cudart_static.lib -Fe"a.exe" ]
+    arg [cuda-fake-ld] ==> ignore
+    arg [cl.exe] ==> recognize MSVC cl
+    arg [-nologo] ==> ignore
+    arg [tmp/a_dlink.obj] ==> ignore
+    arg [tmp/CMakeCUDACompilerId.obj] ==> ignore
+    arg [-link] ==> ignore MSVC cl option
+    arg [-INCREMENTAL:NO] ==> ignore
+    arg [/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../lib/x64] ==> dir [C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../lib/x64]
+    arg [cudadevrt.lib] ==> lib [cudadevrt.lib]
+    arg [cudart_static.lib] ==> lib [cudart_static.lib]
+    arg [-Fea.exe] ==> ignore
+  collapse library dir [C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../lib/x64] ==> [C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/lib/x64]
+  implicit libs: [cudadevrt.lib;cudart_static.lib]
+  implicit dirs: [C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/lib/x64]
+  implicit fwks: []
+
+
+Parsed CUDA nvcc include information from above output:
+  found 'PATH=' string: [F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64;F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\VCPackages;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;F:\Microsoft Visual Studio\2019\Community\MSBuild\Current\bin\Roslyn;F:\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools\x64;F:\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools;F:\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\\x64;F:\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\devinit;C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64;C:\Program Files (x86)\Windows Kits\10\bin\x64;F:\Microsoft Visual Studio\2019\Community\\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\;F:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX86\x86;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\VCPackages;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;F:\Microsoft Visual Studio\2019\Community\MSBuild\Current\bin\Roslyn;F:\Microsoft Visual Studio\2019\Community\Team Tools\Performance Tools;F:\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\vs2019\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\devinit;C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86;C:\Program Files (x86)\Windows Kits\10\bin\x86;F:\Microsoft Visual Studio\2019\Community\\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\;F:\Microsoft Visual Studio\2019\Community\Common7\Tools\;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp;F:\Atmel\WinAVR-20100110\bin;F:\CodeLite\TDM-GCC-32\bin;C:\Program Files\Keysight\IO Libraries Suite\bin;C:\Program Files\IVI Foundation\VISA\Win64\ktvisa;C:\Program Files\IVI Foundation\VISA\Win64\bin;C:\Program Files (x86)\Keysight\IO Libraries Suite\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\ktvisa;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\bin;C:\Program Files (x86)\IVI Foundation\VISA\winnt\agvisa;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\MATLAB\R2019b\runtime\win64;F:\MATLAB\R2019b\bin;F:\MATLAB\R2018a\runtime\win64;F:\MATLAB\R2018a\bin;F:\MATLAB\MATLAB Production Server\R2015a\runtime\win64;F:\MATLAB\MATLAB Production Server\R2015a\bin;F:\MATLAB\MATLAB Production Server\R2015a\polyspace\bin;F:\MATLAB\R2019b\polyspace\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;F:\PuTTY\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.3.1\;F:\Ruby27-x64\bin;C:\Users\705\AppData\Local\Microsoft\WindowsApps;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp;F:\Atmel\WinAVR-20100110\bin;F:\CodeLite\TDM-GCC-32\bin;C:\Program Files\Keysight\IO Libraries Suite\bin;C:\Program Files\IVI Foundation\VISA\Win64\ktvisa;C:\Program Files\IVI Foundation\VISA\Win64\bin;C:\Program Files (x86)\Keysight\IO Libraries Suite\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\ktvisa;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\bin;C:\Program Files (x86)\IVI Foundation\VISA\winnt\agvisa;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\MATLAB\R2019b\runtime\win64;F:\MATLAB\R2019b\bin;F:\MATLAB\R2018a\runtime\win64;F:\MATLAB\R2018a\bin;F:\MATLAB\MATLAB Production Server\R2015a\runtime\win64;F:\MATLAB\MATLAB Production Server\R2015a\bin;F:\MATLAB\MATLAB Production Server\R2015a\polyspace\bin;F:\MATLAB\R2019b\polyspace\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;F:\PuTTY\;C:\Program Files\NVIDIA Corporation\Nsight Compute 2020.3.1\;F:\Ruby27-x64\bin;C:\Users\705\AppData\Local\Microsoft\WindowsApps;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;F:\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja]
+  found 'LIBRARIES=' string: ["/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../lib/x64"]
+  considering line: []
+  considering line: [F:\_OneDrive\OneDrive\ClionPrj\CUDAtest\cmake-build-debug\CMakeFiles\3.17.5\CompilerIdCUDA>call "F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64/../../../../../../../VC/Auxiliary/Build/vcvars64.bat" ]
+  considering line: [**********************************************************************]
+  considering line: [** Visual Studio 2019 Developer Command Prompt v16.9.2]
+  considering line: [** Copyright (c) 2021 Microsoft Corporation]
+  considering line: [**********************************************************************]
+  considering line: [[vcvarsall.bat] Environment initialized for: 'x64']
+  considering line: [F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64/../../../../../../../VC/Auxiliary/Build/vcvars64.bat]
+  considering line: [erase tmp/a_dlink.reg.c]
+  considering line: [CMakeCUDACompilerId.cu]
+  considering line: [cl.exe @"tmp/CMakeCUDACompilerId.cpp1.ii.res" > "tmp/CMakeCUDACompilerId.cpp1.ii" ]
+  considering line: [CMakeCUDACompilerId.cu]
+  considering line: [cicc --microsoft_version=1928 --msvc_target_version=1928 --compiler_bindir "F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --orig_src_file_name "CMakeCUDACompilerId.cu" --allow_managed  -arch compute_52 -m64 --no-version-ident -ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 --include_file_name "CMakeCUDACompilerId.fatbin.c" -tused --gen_module_id_file --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.c" --stub_file_name "tmp/CMakeCUDACompilerId.cudafe1.stub.c" --gen_device_file_name "tmp/CMakeCUDACompilerId.cudafe1.gpu"  "tmp/CMakeCUDACompilerId.cpp1.ii" -o "tmp/CMakeCUDACompilerId.ptx"]
+  considering line: [ptxas -arch=sm_52 -m64 "tmp/CMakeCUDACompilerId.ptx"  -o "tmp/CMakeCUDACompilerId.sm_52.cubin" ]
+  considering line: [fatbinary --create="tmp/CMakeCUDACompilerId.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " "--image3=kind=elf,sm=52,file=tmp/CMakeCUDACompilerId.sm_52.cubin" "--image3=kind=ptx,sm=52,file=tmp/CMakeCUDACompilerId.ptx" --embedded-fatbin="tmp/CMakeCUDACompilerId.fatbin.c" ]
+  considering line: [cl.exe @"tmp/CMakeCUDACompilerId.cpp4.ii.res" > "tmp/CMakeCUDACompilerId.cpp4.ii" ]
+  considering line: [CMakeCUDACompilerId.cu]
+  considering line: [cudafe++ --microsoft_version=1928 --msvc_target_version=1928 --compiler_bindir "F:/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29910/bin/Hostx86/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --orig_src_file_name "CMakeCUDACompilerId.cu" --allow_managed --m64 --parse_templates --gen_c_file_name "tmp/CMakeCUDACompilerId.cudafe1.cpp" --stub_file_name "CMakeCUDACompilerId.cudafe1.stub.c" --module_id_file_name "tmp/CMakeCUDACompilerId.module_id" "tmp/CMakeCUDACompilerId.cpp4.ii" ]
+  considering line: [cl.exe @"tmp/CMakeCUDACompilerId.obj.res" -Fo"tmp/CMakeCUDACompilerId.obj" ]
+  considering line: [CMakeCUDACompilerId.cudafe1.cpp]
+  considering line: [nvlink -optf "tmp/a_dlink.sm_52.cubin.optf"]
+    ignoring nvlink line
+  considering line: [fatbinary --create="tmp/a_dlink.fatbin" -64 --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " -link "--image3=kind=elf,sm=52,file=tmp/a_dlink.sm_52.cubin" --embedded-fatbin="tmp/a_dlink.fatbin.c" ]
+  considering line: [cl.exe @"tmp/a_dlink.obj.res" -Fo"tmp/a_dlink.obj" ]
+  considering line: [link.stub]
+  considering line: [cl.exe @"tmp/a.exe.res" -Fe"a.exe" ]
+    extracted link line: [cl.exe -nologo "tmp/a_dlink.obj" "tmp/CMakeCUDACompilerId.obj" -link -INCREMENTAL:NO   "/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../lib/x64"  cudadevrt.lib  cudart_static.lib -Fe"a.exe" ]
+  considering line: [   Создается библиотека a.lib и объект a.exp]
+  considering line: []
+  found 'INCLUDES=' string: ["-IC:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../include"  ]
+
+  link line regex: [^( *|.*[/\])(link\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  link line: [cuda-fake-ld cl.exe -nologo "tmp/a_dlink.obj" "tmp/CMakeCUDACompilerId.obj" -link -INCREMENTAL:NO   "/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../lib/x64"  cudadevrt.lib  cudart_static.lib -Fe"a.exe" ]
+    arg [cuda-fake-ld] ==> ignore
+    arg [cl.exe] ==> recognize MSVC cl
+    arg [-nologo] ==> ignore
+    arg [tmp/a_dlink.obj] ==> ignore
+    arg [tmp/CMakeCUDACompilerId.obj] ==> ignore
+    arg [-link] ==> ignore MSVC cl option
+    arg [-INCREMENTAL:NO] ==> ignore
+    arg [/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../lib/x64] ==> dir [C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../lib/x64]
+    arg [cudadevrt.lib] ==> lib [cudadevrt.lib]
+    arg [cudart_static.lib] ==> lib [cudart_static.lib]
+    arg [-Fea.exe] ==> ignore
+  collapse library dir [C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin/../lib/x64] ==> [C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/lib/x64]
+  implicit libs: [cudadevrt.lib;cudart_static.lib]
+  implicit dirs: [C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/lib/x64]
+  implicit fwks: []
+
+
+Failed to detect CUDA nvcc include information:
+  no 'INCLUDES=' string found in nvcc output:
+    
+
+
+Failed to detect CUDA nvcc include information:
+  no 'INCLUDES=' string found in nvcc output:
+    
+
+
