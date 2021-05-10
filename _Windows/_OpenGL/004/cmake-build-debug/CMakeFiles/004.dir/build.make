@@ -62,10 +62,10 @@ RM = "H:\Programs\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = E:\_OneDrive\OneDrive\ClionPrj\_OpenGL\004
+CMAKE_SOURCE_DIR = E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\004
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = E:\_OneDrive\OneDrive\ClionPrj\_OpenGL\004\cmake-build-debug
+CMAKE_BINARY_DIR = E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\004\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/004.dir/depend.make
@@ -78,29 +78,29 @@ include CMakeFiles/004.dir/flags.make
 
 CMakeFiles/004.dir/main.cpp.obj: CMakeFiles/004.dir/flags.make
 CMakeFiles/004.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\_OneDrive\OneDrive\ClionPrj\_OpenGL\004\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/004.dir/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\004.dir\main.cpp.obj -c E:\_OneDrive\OneDrive\ClionPrj\_OpenGL\004\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\004\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/004.dir/main.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\004.dir\main.cpp.obj -c E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\004\main.cpp
 
 CMakeFiles/004.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/004.dir/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\_OneDrive\OneDrive\ClionPrj\_OpenGL\004\main.cpp > CMakeFiles\004.dir\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\004\main.cpp > CMakeFiles\004.dir\main.cpp.i
 
 CMakeFiles/004.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/004.dir/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\_OneDrive\OneDrive\ClionPrj\_OpenGL\004\main.cpp -o CMakeFiles\004.dir\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\004\main.cpp -o CMakeFiles\004.dir\main.cpp.s
 
 CMakeFiles/004.dir/myCode.cpp.obj: CMakeFiles/004.dir/flags.make
 CMakeFiles/004.dir/myCode.cpp.obj: ../myCode.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\_OneDrive\OneDrive\ClionPrj\_OpenGL\004\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/004.dir/myCode.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\004.dir\myCode.cpp.obj -c E:\_OneDrive\OneDrive\ClionPrj\_OpenGL\004\myCode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\004\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/004.dir/myCode.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\004.dir\myCode.cpp.obj -c E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\004\myCode.cpp
 
 CMakeFiles/004.dir/myCode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/004.dir/myCode.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\_OneDrive\OneDrive\ClionPrj\_OpenGL\004\myCode.cpp > CMakeFiles\004.dir\myCode.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\004\myCode.cpp > CMakeFiles\004.dir\myCode.cpp.i
 
 CMakeFiles/004.dir/myCode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/004.dir/myCode.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\_OneDrive\OneDrive\ClionPrj\_OpenGL\004\myCode.cpp -o CMakeFiles\004.dir\myCode.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\004\myCode.cpp -o CMakeFiles\004.dir\myCode.cpp.s
 
 # Object files for target 004
 004_OBJECTS = \
@@ -116,7 +116,7 @@ CMakeFiles/004.dir/myCode.cpp.s: cmake_force
 004.exe: CMakeFiles/004.dir/linklibs.rsp
 004.exe: CMakeFiles/004.dir/objects1.rsp
 004.exe: CMakeFiles/004.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\_OneDrive\OneDrive\ClionPrj\_OpenGL\004\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable 004.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\004\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable 004.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\004.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -129,6 +129,6 @@ CMakeFiles/004.dir/clean:
 .PHONY : CMakeFiles/004.dir/clean
 
 CMakeFiles/004.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\_OneDrive\OneDrive\ClionPrj\_OpenGL\004 E:\_OneDrive\OneDrive\ClionPrj\_OpenGL\004 E:\_OneDrive\OneDrive\ClionPrj\_OpenGL\004\cmake-build-debug E:\_OneDrive\OneDrive\ClionPrj\_OpenGL\004\cmake-build-debug E:\_OneDrive\OneDrive\ClionPrj\_OpenGL\004\cmake-build-debug\CMakeFiles\004.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\004 E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\004 E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\004\cmake-build-debug E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\004\cmake-build-debug E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\004\cmake-build-debug\CMakeFiles\004.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/004.dir/depend
 

@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "E:/_OneDrive/OneDrive/ClionPrj/_OpenGL/004/main.cpp" "E:/_OneDrive/OneDrive/ClionPrj/_OpenGL/004/cmake-build-debug/CMakeFiles/004.dir/main.cpp.obj"
-  "E:/_OneDrive/OneDrive/ClionPrj/_OpenGL/004/myCode.cpp" "E:/_OneDrive/OneDrive/ClionPrj/_OpenGL/004/cmake-build-debug/CMakeFiles/004.dir/myCode.cpp.obj"
+  "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/004/main.cpp" "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/004/cmake-build-debug/CMakeFiles/004.dir/main.cpp.obj"
+  "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/004/myCode.cpp" "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/004/cmake-build-debug/CMakeFiles/004.dir/myCode.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
