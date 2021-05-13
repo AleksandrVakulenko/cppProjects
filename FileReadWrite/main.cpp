@@ -2,6 +2,10 @@
 #include <fstream>
 #include <string>
 
+template <class X> void print(X arg_to_print){
+    std::cout << arg_to_print
+              << std::endl;
+}
 
 class data_struct {
 public:
@@ -73,6 +77,19 @@ int main() {
     data_struct ds2;
     ds2.readfromfile("testfile1");
     ds2.get();
+
+    const int N = sizeof(data_struct);
+    print(N);
+    union {
+        data_struct ds{};
+        char buf[N];
+    } buffer;
+
+    std::ifstream ifs("testfile1");
+    ifs.get(buffer.buf, N);
+    data_struct ds3;
+    ds3 = buffer.ds;
+    ds3.get();
 
     return 0;
 }
