@@ -1,0 +1,3 @@
+F:/_OneDrive/OneDrive/ClionPrj/BuildingPrj/cmake-build-debug/CMakeFiles/BuildingPrj.dir
+F:/_OneDrive/OneDrive/ClionPrj/BuildingPrj/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/_OneDrive/OneDrive/ClionPrj/BuildingPrj/cmake-build-debug/CMakeFiles/rebuild_cache.dir

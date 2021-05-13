@@ -1,0 +1,3 @@
+"F:\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Test01.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Test01.dir/objects.a @CMakeFiles\Test01.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g  -static -Wl,--whole-archive CMakeFiles\Test01.dir/objects.a -Wl,--no-whole-archive  -o Test01.exe -Wl,--out-implib,libTest01.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Test01.dir\linklibs.rsp

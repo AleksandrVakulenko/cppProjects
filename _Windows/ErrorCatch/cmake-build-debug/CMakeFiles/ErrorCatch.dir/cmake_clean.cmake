@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ErrorCatch.dir/main.cpp.o"
-  "ErrorCatch"
+  "CMakeFiles/ErrorCatch.dir/main.cpp.obj"
+  "ErrorCatch.exe"
+  "ErrorCatch.exe.manifest"
   "ErrorCatch.pdb"
+  "libErrorCatch.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

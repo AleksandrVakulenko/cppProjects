@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/004/main.cpp
+iostream
+-
+windows.h
+-
+gl/gl.h
+-
+GL/glu.h
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/004/GL/glu.h
+myHeader.h
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/004/myHeader.h
+
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/004/myHeader.h
+

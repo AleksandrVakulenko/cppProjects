@@ -1,3 +1,0 @@
-/home/user/Documents/ClionPrj/_Linux/Hello_world/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/user/Documents/ClionPrj/_Linux/Hello_world/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/user/Documents/ClionPrj/_Linux/Hello_world/cmake-build-debug/CMakeFiles/Hello_world.dir

@@ -1,3 +1,4 @@
+// passing function by pointer
 #include <iostream>
 
 
