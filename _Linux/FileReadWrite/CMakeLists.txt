@@ -3,4 +3,4 @@ project(FileReadWrite)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(FileReadWrite main.cpp)
+add_executable(FileReadWrite main.cpp print_functions.h)

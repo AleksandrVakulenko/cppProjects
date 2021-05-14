@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/user/Documents/ClionPrj/FileReadWrite/main.cpp
+/home/user/Documents/ClionPrj/_Linux/FileReadWrite/main.cpp
 iostream
 -
 fstream
 -
 string
 -
+print_functions.h
+/home/user/Documents/ClionPrj/_Linux/FileReadWrite/print_functions.h
+
+/home/user/Documents/ClionPrj/_Linux/FileReadWrite/print_functions.h
 

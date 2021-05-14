@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug"/>
+				<Option working_dir="/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug"/>
+				<Option working_dir="/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug"/>
+				<Option working_dir="/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="FileReadWrite">
-				<Option output="/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/FileReadWrite" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug"/>
+				<Option output="/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/FileReadWrite" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 FileReadWrite"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 FileReadWrite"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="FileReadWrite/fast">
-				<Option output="/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/FileReadWrite" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug"/>
+				<Option output="/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/FileReadWrite" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -75,17 +75,20 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 FileReadWrite/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 FileReadWrite/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/user/Documents/ClionPrj/_Linux/FileReadWrite/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/user/Documents/ClionPrj/FileReadWrite/main.cpp">
+		<Unit filename="/home/user/Documents/ClionPrj/_Linux/FileReadWrite/main.cpp">
 			<Option target="FileReadWrite"/>
 		</Unit>
-		<Unit filename="/home/user/Documents/ClionPrj/FileReadWrite/CMakeLists.txt">
+		<Unit filename="/home/user/Documents/ClionPrj/_Linux/FileReadWrite/print_functions.h">
+			<Option target="FileReadWrite"/>
+		</Unit>
+		<Unit filename="/home/user/Documents/ClionPrj/_Linux/FileReadWrite/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
