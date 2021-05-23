@@ -11,6 +11,7 @@ using std::cout;
 int main() {
     //HWND hwnd = GetConsoleWindow();
     HWND hwnd = GetDesktopWindow();
+    //HWND hwnd = GetActiveWindow();
     HDC dc = GetDC(hwnd);
 
     SelectObject(dc, GetStockObject(DC_BRUSH));

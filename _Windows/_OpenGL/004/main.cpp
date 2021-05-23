@@ -3,6 +3,9 @@
 #include <gl/gl.h>
 #include "GL/glu.h"
 #include "myHeader.h"
+#include "WinUser.h"
+
+#pragma comment (lib, "opengl32.lib")
 
 LRESULT CALLBACK WindowProc(HWND, UINT, WPARAM, LPARAM);
 
@@ -45,11 +48,11 @@ int WINAPI WinMain(HINSTANCE hInstance,
     hwnd = CreateWindowEx(0,
                           "GLSample",
                           "OpenGL Sample",
-                          WS_OVERLAPPEDWINDOW, //WS_EX_TOPMOST | WS_POPUP or WS_OVERLAPPEDWINDOW
+                          WS_EX_TOPMOST | WS_POPUP, //WS_EX_TOPMOST | WS_POPUP or WS_OVERLAPPEDWINDOW
                           CW_USEDEFAULT,
                           CW_USEDEFAULT,
-                          500,
-                          500,
+                          1920*1,
+                          1080*1,
                           nullptr,
                           nullptr,
                           hInstance,
@@ -62,7 +65,7 @@ int WINAPI WinMain(HINSTANCE hInstance,
 
 
 // -----------------------------------my code---------------------------------------
-    int Nquad = 100000;
+    int Nquad = 10000;
     bool MemoryAllocated;
     // create plan B
     Quad quads[10];
@@ -80,6 +83,20 @@ int WINAPI WinMain(HINSTANCE hInstance,
         pQuad[i].QuadGenerate();
     }
 // -----------------------------------my code end-----------------------------------
+    int xScreenResolution = GetSystemMetrics(SM_CXSCREEN);
+    int yScreenResolution = GetSystemMetrics(SM_CYSCREEN);
+    std::cout << "Current Resolution is: " << xScreenResolution << "x" << yScreenResolution << std::endl;
+
+    int width  = GetSystemMetrics(SM_CXFULLSCREEN);
+    int height = GetSystemMetrics(SM_CYFULLSCREEN);
+    std::cout << "Current Resolution is: " << width << "x" << height << std::endl;
+
+
+
+
+
+//    return 0;
+//----------------------------------------------------------------------------------
 
 
     /* program main loop */
@@ -146,8 +163,9 @@ LRESULT CALLBACK WindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam) 
                     break;
 
             }
+			break;
         }
-            break;
+            
 
         default:
             return DefWindowProc(hwnd, uMsg, wParam, lParam);

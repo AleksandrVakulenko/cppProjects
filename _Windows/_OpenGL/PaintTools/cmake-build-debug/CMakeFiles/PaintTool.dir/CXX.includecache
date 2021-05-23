@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Angles.h
+iostream
+-
+string
+-
+
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/PaintTools.h
+Angles.h
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Angles.h
+istream
+-
+cmath
+-
+
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/main.cpp
+iostream
+-
+Angles.h
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Angles.h
+PaintTools.h
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/PaintTools.h
+

@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-F:/_OneDrive/OneDrive/ClionPrj/_WindowsAPI/visualTest/main.cpp
+C:/OneDrive/_CPP_projects/_Windows/_WindowsAPI/visualTest/main.cpp
 iostream
 -
 windows.h
-F:/_OneDrive/OneDrive/ClionPrj/_WindowsAPI/visualTest/windows.h
+C:/OneDrive/_CPP_projects/_Windows/_WindowsAPI/visualTest/windows.h
 gl/gl.h
-F:/_OneDrive/OneDrive/ClionPrj/_WindowsAPI/visualTest/gl/gl.h
+C:/OneDrive/_CPP_projects/_Windows/_WindowsAPI/visualTest/gl/gl.h
 

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "F:/_OneDrive/OneDrive/ClionPrj/_WindowsAPI/visualTest/main.cpp" "F:/_OneDrive/OneDrive/ClionPrj/_WindowsAPI/visualTest/cmake-build-debug/CMakeFiles/visualTest.dir/main.cpp.obj"
+  "C:/OneDrive/_CPP_projects/_Windows/_WindowsAPI/visualTest/main.cpp" "C:/OneDrive/_CPP_projects/_Windows/_WindowsAPI/visualTest/cmake-build-debug/CMakeFiles/visualTest.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

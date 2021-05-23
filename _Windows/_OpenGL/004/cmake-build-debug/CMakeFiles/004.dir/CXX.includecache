@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/004/main.cpp
+C:/OneDrive/_CPP_projects/_Windows/_OpenGL/004/main.cpp
 iostream
 -
 windows.h
@@ -14,9 +14,11 @@ windows.h
 gl/gl.h
 -
 GL/glu.h
-E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/004/GL/glu.h
+C:/OneDrive/_CPP_projects/_Windows/_OpenGL/004/GL/glu.h
 myHeader.h
-E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/004/myHeader.h
+C:/OneDrive/_CPP_projects/_Windows/_OpenGL/004/myHeader.h
+WinUser.h
+C:/OneDrive/_CPP_projects/_Windows/_OpenGL/004/WinUser.h
 
-E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/004/myHeader.h
+C:/OneDrive/_CPP_projects/_Windows/_OpenGL/004/myHeader.h
 
