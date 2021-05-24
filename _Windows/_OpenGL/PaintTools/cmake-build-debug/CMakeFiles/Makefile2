@@ -93,12 +93,12 @@ clean: CMakeFiles/PaintTool.dir/clean
 CMakeFiles/PaintTool.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintTool.dir\build.make CMakeFiles/PaintTool.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintTool.dir\build.make CMakeFiles/PaintTool.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4 "Built target PaintTool"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Built target PaintTool"
 .PHONY : CMakeFiles/PaintTool.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/PaintTool.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\cmake-build-debug\CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\cmake-build-debug\CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/PaintTool.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/PaintTool.dir/rule

@@ -169,6 +169,114 @@ Angles.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintTool.dir\build.make CMakeFiles/PaintTool.dir/Angles.cpp.s
 .PHONY : Angles.cpp.s
 
+Angles_math.obj: Angles_math.cpp.obj
+
+.PHONY : Angles_math.obj
+
+# target to build an object file
+Angles_math.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintTool.dir\build.make CMakeFiles/PaintTool.dir/Angles_math.cpp.obj
+.PHONY : Angles_math.cpp.obj
+
+Angles_math.i: Angles_math.cpp.i
+
+.PHONY : Angles_math.i
+
+# target to preprocess a source file
+Angles_math.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintTool.dir\build.make CMakeFiles/PaintTool.dir/Angles_math.cpp.i
+.PHONY : Angles_math.cpp.i
+
+Angles_math.s: Angles_math.cpp.s
+
+.PHONY : Angles_math.s
+
+# target to generate assembly for a file
+Angles_math.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintTool.dir\build.make CMakeFiles/PaintTool.dir/Angles_math.cpp.s
+.PHONY : Angles_math.cpp.s
+
+Coordinates.obj: Coordinates.cpp.obj
+
+.PHONY : Coordinates.obj
+
+# target to build an object file
+Coordinates.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintTool.dir\build.make CMakeFiles/PaintTool.dir/Coordinates.cpp.obj
+.PHONY : Coordinates.cpp.obj
+
+Coordinates.i: Coordinates.cpp.i
+
+.PHONY : Coordinates.i
+
+# target to preprocess a source file
+Coordinates.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintTool.dir\build.make CMakeFiles/PaintTool.dir/Coordinates.cpp.i
+.PHONY : Coordinates.cpp.i
+
+Coordinates.s: Coordinates.cpp.s
+
+.PHONY : Coordinates.s
+
+# target to generate assembly for a file
+Coordinates.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintTool.dir\build.make CMakeFiles/PaintTool.dir/Coordinates.cpp.s
+.PHONY : Coordinates.cpp.s
+
+Coordinates_math.obj: Coordinates_math.cpp.obj
+
+.PHONY : Coordinates_math.obj
+
+# target to build an object file
+Coordinates_math.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintTool.dir\build.make CMakeFiles/PaintTool.dir/Coordinates_math.cpp.obj
+.PHONY : Coordinates_math.cpp.obj
+
+Coordinates_math.i: Coordinates_math.cpp.i
+
+.PHONY : Coordinates_math.i
+
+# target to preprocess a source file
+Coordinates_math.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintTool.dir\build.make CMakeFiles/PaintTool.dir/Coordinates_math.cpp.i
+.PHONY : Coordinates_math.cpp.i
+
+Coordinates_math.s: Coordinates_math.cpp.s
+
+.PHONY : Coordinates_math.s
+
+# target to generate assembly for a file
+Coordinates_math.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintTool.dir\build.make CMakeFiles/PaintTool.dir/Coordinates_math.cpp.s
+.PHONY : Coordinates_math.cpp.s
+
+PaintTools.obj: PaintTools.cpp.obj
+
+.PHONY : PaintTools.obj
+
+# target to build an object file
+PaintTools.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintTool.dir\build.make CMakeFiles/PaintTool.dir/PaintTools.cpp.obj
+.PHONY : PaintTools.cpp.obj
+
+PaintTools.i: PaintTools.cpp.i
+
+.PHONY : PaintTools.i
+
+# target to preprocess a source file
+PaintTools.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintTool.dir\build.make CMakeFiles/PaintTool.dir/PaintTools.cpp.i
+.PHONY : PaintTools.cpp.i
+
+PaintTools.s: PaintTools.cpp.s
+
+.PHONY : PaintTools.s
+
+# target to generate assembly for a file
+PaintTools.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PaintTool.dir\build.make CMakeFiles/PaintTool.dir/PaintTools.cpp.s
+.PHONY : PaintTools.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -235,6 +343,18 @@ help:
 	@echo ... Angles.obj
 	@echo ... Angles.i
 	@echo ... Angles.s
+	@echo ... Angles_math.obj
+	@echo ... Angles_math.i
+	@echo ... Angles_math.s
+	@echo ... Coordinates.obj
+	@echo ... Coordinates.i
+	@echo ... Coordinates.s
+	@echo ... Coordinates_math.obj
+	@echo ... Coordinates_math.i
+	@echo ... Coordinates_math.s
+	@echo ... PaintTools.obj
+	@echo ... PaintTools.i
+	@echo ... PaintTools.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

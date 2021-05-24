@@ -115,11 +115,67 @@ CMakeFiles/PaintTool.dir/Angles.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PaintTool.dir/Angles.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\Angles.cpp -o CMakeFiles\PaintTool.dir\Angles.cpp.s
 
+CMakeFiles/PaintTool.dir/Angles_math.cpp.obj: CMakeFiles/PaintTool.dir/flags.make
+CMakeFiles/PaintTool.dir/Angles_math.cpp.obj: ../Angles_math.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/PaintTool.dir/Angles_math.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PaintTool.dir\Angles_math.cpp.obj -c E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\Angles_math.cpp
+
+CMakeFiles/PaintTool.dir/Angles_math.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PaintTool.dir/Angles_math.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\Angles_math.cpp > CMakeFiles\PaintTool.dir\Angles_math.cpp.i
+
+CMakeFiles/PaintTool.dir/Angles_math.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PaintTool.dir/Angles_math.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\Angles_math.cpp -o CMakeFiles\PaintTool.dir\Angles_math.cpp.s
+
+CMakeFiles/PaintTool.dir/Coordinates.cpp.obj: CMakeFiles/PaintTool.dir/flags.make
+CMakeFiles/PaintTool.dir/Coordinates.cpp.obj: ../Coordinates.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/PaintTool.dir/Coordinates.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PaintTool.dir\Coordinates.cpp.obj -c E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\Coordinates.cpp
+
+CMakeFiles/PaintTool.dir/Coordinates.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PaintTool.dir/Coordinates.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\Coordinates.cpp > CMakeFiles\PaintTool.dir\Coordinates.cpp.i
+
+CMakeFiles/PaintTool.dir/Coordinates.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PaintTool.dir/Coordinates.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\Coordinates.cpp -o CMakeFiles\PaintTool.dir\Coordinates.cpp.s
+
+CMakeFiles/PaintTool.dir/Coordinates_math.cpp.obj: CMakeFiles/PaintTool.dir/flags.make
+CMakeFiles/PaintTool.dir/Coordinates_math.cpp.obj: ../Coordinates_math.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/PaintTool.dir/Coordinates_math.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PaintTool.dir\Coordinates_math.cpp.obj -c E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\Coordinates_math.cpp
+
+CMakeFiles/PaintTool.dir/Coordinates_math.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PaintTool.dir/Coordinates_math.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\Coordinates_math.cpp > CMakeFiles\PaintTool.dir\Coordinates_math.cpp.i
+
+CMakeFiles/PaintTool.dir/Coordinates_math.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PaintTool.dir/Coordinates_math.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\Coordinates_math.cpp -o CMakeFiles\PaintTool.dir\Coordinates_math.cpp.s
+
+CMakeFiles/PaintTool.dir/PaintTools.cpp.obj: CMakeFiles/PaintTool.dir/flags.make
+CMakeFiles/PaintTool.dir/PaintTools.cpp.obj: ../PaintTools.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/PaintTool.dir/PaintTools.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PaintTool.dir\PaintTools.cpp.obj -c E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\PaintTools.cpp
+
+CMakeFiles/PaintTool.dir/PaintTools.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PaintTool.dir/PaintTools.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\PaintTools.cpp > CMakeFiles\PaintTool.dir\PaintTools.cpp.i
+
+CMakeFiles/PaintTool.dir/PaintTools.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PaintTool.dir/PaintTools.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\PaintTools.cpp -o CMakeFiles\PaintTool.dir\PaintTools.cpp.s
+
 # Object files for target PaintTool
 PaintTool_OBJECTS = \
 "CMakeFiles/PaintTool.dir/main.cpp.obj" \
 "CMakeFiles/PaintTool.dir/myCode.cpp.obj" \
-"CMakeFiles/PaintTool.dir/Angles.cpp.obj"
+"CMakeFiles/PaintTool.dir/Angles.cpp.obj" \
+"CMakeFiles/PaintTool.dir/Angles_math.cpp.obj" \
+"CMakeFiles/PaintTool.dir/Coordinates.cpp.obj" \
+"CMakeFiles/PaintTool.dir/Coordinates_math.cpp.obj" \
+"CMakeFiles/PaintTool.dir/PaintTools.cpp.obj"
 
 # External object files for target PaintTool
 PaintTool_EXTERNAL_OBJECTS =
@@ -127,11 +183,15 @@ PaintTool_EXTERNAL_OBJECTS =
 PaintTool.exe: CMakeFiles/PaintTool.dir/main.cpp.obj
 PaintTool.exe: CMakeFiles/PaintTool.dir/myCode.cpp.obj
 PaintTool.exe: CMakeFiles/PaintTool.dir/Angles.cpp.obj
+PaintTool.exe: CMakeFiles/PaintTool.dir/Angles_math.cpp.obj
+PaintTool.exe: CMakeFiles/PaintTool.dir/Coordinates.cpp.obj
+PaintTool.exe: CMakeFiles/PaintTool.dir/Coordinates_math.cpp.obj
+PaintTool.exe: CMakeFiles/PaintTool.dir/PaintTools.cpp.obj
 PaintTool.exe: CMakeFiles/PaintTool.dir/build.make
 PaintTool.exe: CMakeFiles/PaintTool.dir/linklibs.rsp
 PaintTool.exe: CMakeFiles/PaintTool.dir/objects1.rsp
 PaintTool.exe: CMakeFiles/PaintTool.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable PaintTool.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\_OneDrive\OneDrive\_CPP_projects\_Windows\_OpenGL\PaintTools\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable PaintTool.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\PaintTool.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

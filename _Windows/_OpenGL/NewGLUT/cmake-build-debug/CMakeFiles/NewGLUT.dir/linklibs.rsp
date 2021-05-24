@@ -1,0 +1,1 @@
+ -L"E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/NewGLUT/lib" -lfreeglut -lopengl32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

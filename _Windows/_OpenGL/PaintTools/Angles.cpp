@@ -108,7 +108,7 @@ float Angle::check(float arg) const { //FIXME: remake!
     return arg;
 }
 
-void Angle::print() {
+void Angle::print() const {
     std::string type_string;
     if (this->angle_type == Angle_type::degrees) {
         type_string = "deg";
@@ -121,16 +121,45 @@ void Angle::print() {
 
 Angle Angle::convert(const Angle &input, Angle_type to_at) {
     Angle temp{0};
-    if (to_at == Angle_type::degrees){
+    if (to_at == Angle_type::degrees) {
         temp.angle_type = Angle_type::degrees;
         temp.limit.high = 360;
-        temp.angle = input.angle / PI * 180;
+        if (input.angle_type == Angle_type::degrees) {
+            temp.angle = input.angle;
+        } else {
+            temp.angle = input.angle / PI * 180;
+        }
     } else {
         temp.angle_type = Angle_type::radian;
         temp.limit.high = 2 * PI;
-        temp.angle = input.angle / 180 * PI;
+        if (input.angle_type == Angle_type::radian) {
+            temp.angle = input.angle;
+        } else {
+            temp.angle = input.angle / 180 * PI;
+        }
     }
     return temp;
 }
 
+Angle Angle::convert(Angle_type to_at) const {
+    Angle temp{0};
+    if (to_at == Angle_type::degrees) {
+        temp.angle_type = Angle_type::degrees;
+        temp.limit.high = 360;
+        if (this->angle_type == Angle_type::degrees) {
+            temp.angle = this->angle;
+        } else {
+            temp.angle = this->angle / PI * 180;
+        }
+    } else {
+        temp.angle_type = Angle_type::radian;
+        temp.limit.high = 2 * PI;
+        if (this->angle_type == Angle_type::radian) {
+            temp.angle = this->angle;
+        } else {
+            temp.angle = this->angle / 180 * PI;
+        }
+    }
+    return temp;
+}
 

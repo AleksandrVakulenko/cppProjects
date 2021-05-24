@@ -86,6 +86,21 @@
 		<Unit filename="E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Angles.h">
 			<Option target="PaintTool"/>
 		</Unit>
+		<Unit filename="E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Angles_math.cpp">
+			<Option target="PaintTool"/>
+		</Unit>
+		<Unit filename="E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Coordinates.cpp">
+			<Option target="PaintTool"/>
+		</Unit>
+		<Unit filename="E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Coordinates.h">
+			<Option target="PaintTool"/>
+		</Unit>
+		<Unit filename="E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Coordinates_math.cpp">
+			<Option target="PaintTool"/>
+		</Unit>
+		<Unit filename="E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/PaintTools.cpp">
+			<Option target="PaintTool"/>
+		</Unit>
 		<Unit filename="E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/PaintTools.h">
 			<Option target="PaintTool"/>
 		</Unit>

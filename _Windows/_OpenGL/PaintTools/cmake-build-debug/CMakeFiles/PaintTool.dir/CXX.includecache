@@ -12,19 +12,35 @@ iostream
 string
 -
 
-E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/PaintTools.h
-Angles.h
-E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Angles.h
-istream
--
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Coordinates.h
 cmath
 -
+Angles.h
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Angles.h
+
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/PaintTools.h
+gl/gl.h
+-
+istream
+-
+Angles.h
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Angles.h
+Coordinates.h
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Coordinates.h
 
 E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/main.cpp
 iostream
 -
-Angles.h
-E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Angles.h
+windows.h
+-
+gl/gl.h
+-
+GL/glu.h
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/GL/glu.h
+myHeader.h
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/myHeader.h
 PaintTools.h
 E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/PaintTools.h
+
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/myHeader.h
 

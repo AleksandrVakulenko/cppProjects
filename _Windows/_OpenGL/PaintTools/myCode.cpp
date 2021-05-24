@@ -1,6 +1,7 @@
 #include <gl/gl.h>
 #include "myHeader.h"
 #include <math.h>
+#include <cstdlib>
 
 double randomRange(double min, double max) {
     double R = (double) (rand() % 10000) / 10000.0;

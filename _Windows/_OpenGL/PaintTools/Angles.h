@@ -8,10 +8,12 @@
 #include <iostream>
 #include <string>
 
-
 namespace Angles {
     enum class Angle_type;
     class Angle;
+    float sin(const Angle&);
+    float cos(const Angle&);
+    float tan(const Angle&);
 }
 
 
@@ -25,7 +27,7 @@ public:
 
     Angle();
 
-    explicit Angle(float angle);
+    Angle(float angle);
 
     Angle(float angle, Angle_type in_type);
 
@@ -61,16 +63,17 @@ public:
     };
 
     static Angle convert(const Angle &input, Angle_type to_at);
+    Angle convert(Angle_type to_at) const;
 
-    void print();
+    void print() const;
 
     float angle{0};
+
+    Angle_type angle_type;
 
     static constexpr float PI{3.141592654};
 
 protected:
-    Angle_type angle_type;
-
     float check(float) const;
 
     struct {

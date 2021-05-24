@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/NewGLUT/main.cpp
+GL/freeglut.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdarg.h
+-
+string.h
+-
+

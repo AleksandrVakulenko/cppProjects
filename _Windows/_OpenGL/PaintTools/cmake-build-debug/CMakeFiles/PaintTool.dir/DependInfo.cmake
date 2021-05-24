@@ -5,6 +5,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Angles.cpp" "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/cmake-build-debug/CMakeFiles/PaintTool.dir/Angles.cpp.obj"
+  "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Angles_math.cpp" "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/cmake-build-debug/CMakeFiles/PaintTool.dir/Angles_math.cpp.obj"
+  "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Coordinates.cpp" "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/cmake-build-debug/CMakeFiles/PaintTool.dir/Coordinates.cpp.obj"
+  "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/Coordinates_math.cpp" "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/cmake-build-debug/CMakeFiles/PaintTool.dir/Coordinates_math.cpp.obj"
+  "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/PaintTools.cpp" "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/cmake-build-debug/CMakeFiles/PaintTool.dir/PaintTools.cpp.obj"
   "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/main.cpp" "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/cmake-build-debug/CMakeFiles/PaintTool.dir/main.cpp.obj"
   "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/myCode.cpp" "E:/_OneDrive/OneDrive/_CPP_projects/_Windows/_OpenGL/PaintTools/cmake-build-debug/CMakeFiles/PaintTool.dir/myCode.cpp.obj"
   )

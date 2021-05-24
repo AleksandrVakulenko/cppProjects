@@ -3,7 +3,7 @@ project(PaintTool)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(PaintTool main.cpp myHeader.h myCode.cpp PaintTools.h Angles.h Angles.cpp main.cpp)
+add_executable(PaintTool main.cpp myHeader.h myCode.cpp PaintTools.h Angles.h Angles.cpp main.cpp Angles_math.cpp Coordinates.h Coordinates.cpp Coordinates_math.cpp PaintTools.cpp)
 
 
 set(CMAKE_EXE_LINKER_FLAGS -static)
